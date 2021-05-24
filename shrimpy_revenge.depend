@@ -1,0 +1,599 @@
+# depslib dependency file v1.0
+1548115563 source:c:\users\david\desktop\new folder\directions.cpp
+
+1548193049 source:c:\users\david\desktop\new folder\framework_updates_and_notes.cpp
+
+1548192635 source:c:\users\david\desktop\new folder\game_interface.cpp
+	<game_interface.h>
+
+1548192635 c:\users\david\codeblocks_workspace\sdl_practice_2\\game_interface.h
+	<z_media.h>
+
+1548905193 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media.h
+	<z_maths/z_math.h>
+	<z_media/window.h>
+	<z_media/images.h>
+	<z_media/shape.h>
+	<z_media/text.h>
+	<z_media/sound.h>
+
+1545008059 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\z_math.h
+	<iostream>
+	<vector>
+	<random>
+	<functional>
+	<z_maths/event_rectangle.h>
+	<z_maths/timer.h>
+	<z_maths/camera.h>
+	<z_maths/button.h>
+	<z_maths/int_reader.h>
+
+1544991161 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\event_rectangle.h
+	<z_maths/event_circle.h>
+
+1544991123 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\event_circle.h
+	<z_maths/event_area.h>
+
+1544754805 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\event_area.h
+
+1543522756 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\timer.h
+	<SDL.h>
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519918612 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547832719 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\camera.h
+	<SDL.h>
+
+1544376066 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\button.h
+
+1542779433 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_maths\int_reader.h
+	<iostream>
+	<SDL.h>
+	<string>
+
+1548904478 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media\window.h
+	<z_media.h>
+
+1548905145 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media\images.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+
+1519918472 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547835476 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media\shape.h
+	<SDL.h>
+	<iostream>
+	<string>
+
+1548192635 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media\text.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1454359334 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547825854 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_media\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<string>
+	<iostream>
+
+1508772768 c:\users\david\desktop\sdl_development\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548200174 source:c:\users\david\desktop\new folder\initiation_and_control.cpp
+	<initiation_and_control.h>
+
+1548176287 c:\users\david\codeblocks_workspace\sdl_practice_2\\initiation_and_control.h
+	<z_mechanics/z_mechanics.h>
+	<room.h>
+
+1548176365 c:\users\david\codeblocks_workspace\sdl_practice_2\\z_mechanics\z_mechanics.h
+	<z_maths/z_math.h>
+
+1548106165 c:\users\david\codeblocks_workspace\sdl_practice_2\\room.h
+	<game_interface.h>
+
+1548199864 source:c:\users\david\desktop\new folder\main.cpp
+	<initiation_and_control.h>
+
+1544376066 source:c:\users\david\desktop\new folder\z_maths\button.cpp
+	<z_maths/button.h>
+
+1548199678 source:c:\users\david\desktop\new folder\room.cpp
+	<room.h>
+
+1547832062 source:c:\users\david\desktop\new folder\z_maths\camera.cpp
+	<z_maths/camera.h>
+
+1544991123 source:c:\users\david\desktop\new folder\z_maths\event_circle.cpp
+	<z_maths/event_circle.h>
+
+1544991123 source:c:\users\david\desktop\new folder\z_maths\event_rectangle.cpp
+	<z_maths/event_rectangle.h>
+
+1542780697 source:c:\users\david\desktop\new folder\z_maths\int_reader.cpp
+	<z_maths/int_reader.h>
+
+1543522756 source:c:\users\david\desktop\new folder\z_maths\timer.cpp
+	<z_maths/timer.h>
+
+1548084312 source:c:\users\david\desktop\new folder\z_maths\z_math.cpp
+	<z_maths/z_math.h>
+
+1548041359 source:c:\users\david\desktop\new folder\z_mechanics\z_mechanics.cpp
+	<z_mechanics/z_mechanics.h>
+
+1547838879 source:c:\users\david\desktop\new folder\z_media\image.cpp
+	<z_media/images.h>
+
+1545002891 source:c:\users\david\desktop\new folder\z_media\shape.cpp
+	<z_media/shape.h>
+
+1547825851 source:c:\users\david\desktop\new folder\z_media\sound.cpp
+	<z_media/sound.h>
+
+1548192635 source:c:\users\david\desktop\new folder\z_media\text.cpp
+	<z_media/text.h>
+
+1543883805 source:c:\users\david\desktop\new folder\z_media\window.cpp
+	<z_media/window.h>
+
+1548115563 source:c:\users\david\desktop\shrimpy_revenge\directions.cpp
+
+1548193049 source:c:\users\david\desktop\shrimpy_revenge\framework_updates_and_notes.cpp
+
+1548424656 source:c:\users\david\desktop\shrimpy_revenge\game_interface.cpp
+	<game_interface.h>
+
+1548200174 source:c:\users\david\desktop\shrimpy_revenge\initiation_and_control.cpp
+	<initiation_and_control.h>
+
+1548380964 source:c:\users\david\desktop\shrimpy_revenge\main.cpp
+	<initiation_and_control.h>
+
+1548379417 source:c:\users\david\desktop\shrimpy_revenge\room.cpp
+	<room.h>
+
+1544376066 source:c:\users\david\desktop\shrimpy_revenge\z_maths\button.cpp
+	<z_maths/button.h>
+
+1547832062 source:c:\users\david\desktop\shrimpy_revenge\z_maths\camera.cpp
+	<z_maths/camera.h>
+
+1544991123 source:c:\users\david\desktop\shrimpy_revenge\z_maths\event_circle.cpp
+	<z_maths/event_circle.h>
+
+1544991123 source:c:\users\david\desktop\shrimpy_revenge\z_maths\event_rectangle.cpp
+	<z_maths/event_rectangle.h>
+
+1542780697 source:c:\users\david\desktop\shrimpy_revenge\z_maths\int_reader.cpp
+	<z_maths/int_reader.h>
+
+1543522756 source:c:\users\david\desktop\shrimpy_revenge\z_maths\timer.cpp
+	<z_maths/timer.h>
+
+1548084312 source:c:\users\david\desktop\shrimpy_revenge\z_maths\z_math.cpp
+	<z_maths/z_math.h>
+
+1548284091 source:c:\users\david\desktop\shrimpy_revenge\z_mechanics\z_mechanics.cpp
+	<z_mechanics/z_mechanics.h>
+
+1548222081 source:c:\users\david\desktop\shrimpy_revenge\z_media\image.cpp
+	<z_media/images.h>
+
+1545002891 source:c:\users\david\desktop\shrimpy_revenge\z_media\shape.cpp
+	<z_media/shape.h>
+
+1547825851 source:c:\users\david\desktop\shrimpy_revenge\z_media\sound.cpp
+	<z_media/sound.h>
+
+1548192635 source:c:\users\david\desktop\shrimpy_revenge\z_media\text.cpp
+	<z_media/text.h>
+
+1543883805 source:c:\users\david\desktop\shrimpy_revenge\z_media\window.cpp
+	<z_media/window.h>
+
+1548119164 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\directions.cpp
+
+1548196650 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\framework_updates_and_notes.cpp
+
+1548428258 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\game_interface.cpp
+	<game_interface.h>
+
+1548203776 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\initiation_and_control.cpp
+	<initiation_and_control.h>
+
+1548384566 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\main.cpp
+	<initiation_and_control.h>
+
+1548383018 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\room.cpp
+	<room.h>
+
+1544379668 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\button.cpp
+	<z_maths/button.h>
+
+1547835664 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\camera.cpp
+	<z_maths/camera.h>
+
+1544994724 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\event_circle.cpp
+	<z_maths/event_circle.h>
+
+1544994724 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\event_rectangle.cpp
+	<z_maths/event_rectangle.h>
+
+1542784298 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\int_reader.cpp
+	<z_maths/int_reader.h>
+
+1543526358 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\timer.cpp
+	<z_maths/timer.h>
+
+1548087914 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_maths\z_math.cpp
+	<z_maths/z_math.h>
+
+1548287692 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_mechanics\z_mechanics.cpp
+	<z_mechanics/z_mechanics.h>
+
+1548225682 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_media\image.cpp
+	<z_media/images.h>
+
+1545006492 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_media\shape.cpp
+	<z_media/shape.h>
+
+1547829452 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_media\sound.cpp
+	<z_media/sound.h>
+
+1548196236 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_media\text.cpp
+	<z_media/text.h>
+
+1543887406 source:c:\users\helico\documents\old_game_dev_shit\shr\shrimpy_revenge\z_media\window.cpp
+	<z_media/window.h>
+

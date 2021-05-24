@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="shrimpy_revenge" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/shrimpy_revenge" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++14" />
+					<Add option="-g" />
+					<Add directory="../../Desktop/sdl_development/SDL2-2.0.8/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/Users/David/codeblocks_workspace/sdl_practice_2/" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer" />
+					<Add directory="../../Desktop/sdl_development/SDL2-2.0.8/i686-w64-mingw32/lib" />
+					<Add directory="C:/Users/David/codeblocks_workspace/sdl_practice_2/" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/shrimpy_revenge" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add directory="C:/Users/David/codeblocks_workspace/sdl_practice_2/" />
+			<Add directory="sdl_stuff/SDL2-2.0.8/i686-w64-mingw32/include/SDL2" />
+			<Add directory="obj/Debug/z_maths" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer" />
+			<Add directory="C:/Users/David/codeblocks_workspace/sdl_practice_2/" />
+			<Add directory="sdl_stuff/SDL2-2.0.8/i686-w64-mingw32/lib" />
+			<Add directory="z_maths" />
+		</Linker>
+		<Unit filename="directions.cpp" />
+		<Unit filename="framework_updates_and_notes.cpp" />
+		<Unit filename="game_interface.cpp" />
+		<Unit filename="game_interface.h" />
+		<Unit filename="initiation_and_control.cpp" />
+		<Unit filename="initiation_and_control.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="room.cpp" />
+		<Unit filename="room.h" />
+		<Unit filename="z_maths/button.cpp" />
+		<Unit filename="z_maths/button.h" />
+		<Unit filename="z_maths/camera.cpp" />
+		<Unit filename="z_maths/camera.h" />
+		<Unit filename="z_maths/event_area.h" />
+		<Unit filename="z_maths/event_circle.cpp" />
+		<Unit filename="z_maths/event_circle.h" />
+		<Unit filename="z_maths/event_rectangle.cpp" />
+		<Unit filename="z_maths/event_rectangle.h" />
+		<Unit filename="z_maths/int_reader.cpp" />
+		<Unit filename="z_maths/int_reader.h" />
+		<Unit filename="z_maths/timer.cpp" />
+		<Unit filename="z_maths/timer.h" />
+		<Unit filename="z_maths/z_math.cpp" />
+		<Unit filename="z_maths/z_math.h" />
+		<Unit filename="z_mechanics/z_mechanics.cpp" />
+		<Unit filename="z_mechanics/z_mechanics.h" />
+		<Unit filename="z_media.h" />
+		<Unit filename="z_media/image.cpp" />
+		<Unit filename="z_media/images.h" />
+		<Unit filename="z_media/shape.cpp" />
+		<Unit filename="z_media/shape.h" />
+		<Unit filename="z_media/sound.cpp" />
+		<Unit filename="z_media/sound.h" />
+		<Unit filename="z_media/text.cpp" />
+		<Unit filename="z_media/text.h" />
+		<Unit filename="z_media/window.cpp" />
+		<Unit filename="z_media/window.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
